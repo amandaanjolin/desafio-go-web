@@ -1,1 +1,1 @@
-# desafio-go-web
+# desafio-go-bases
